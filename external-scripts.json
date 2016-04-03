@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-github-identity",
-  "hubot-board"
+  "hubot-board" ,
+  "hubot-github-repo-event-notifier"
 ]
